@@ -9,3 +9,11 @@ h1 {
     margin-left: 2em;
     margin-right: 2em;
 }
+
+button {
+    background-color: darkgray;
+}
+
+img {
+    width: 40%;
+}
