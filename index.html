@@ -8,45 +8,31 @@
 </head>
 <body>
     <header>
-        <nav><a href="#about-header">About</a></nav>
-        <nav><a href="#contact-header">Contact</a></nav>
+        <nav id="navbar">
+            <ul>
+                <li><a href="#landing-section">Home</a></li>
+                <li><a href="#projects-section">Projects</a></li>
+                <li><a href="#contact-section">Contact</a></li>
+            </ul>
+        </nav>
     </header>
-    <h1>Philip Jones</h1>
-    <div class="container">
-        <h2 id="about-header">About</h2>
-        <p>
-            Hello! My name is Philip Jones. I am 22 years old male, from Rockland County, New York.
-            I graduated from the University at Buffalo with a degree in Business Administration, and will be attending Oregon State University's post-baccalaureate Computer Science program.
-            My goal is to create useful software that will help advance society to a higher state.
-        </p>
-        <a target="_blank" alt="My high school graduation photo" href="https://www.lohud.com/picture-gallery/news/education/graduations/2019/06/30/ramapo-high-school-graduation-2019/1613275001/"><img title="Click to see my class's high school graduation photos" src="images/hs-graduation.jpg"></a>
-        <p>Testing the fixed header feature!</p>
-        <p>Testing the fixed header feature!</p>
-        <p>Testing the fixed header feature!</p>
-        <p>Testing the fixed header feature!</p>
-        <p>Testing the fixed header feature!</p>
-        <p>Testing the fixed header feature!</p>
-        <p>Testing the fixed header feature!</p>
-        <p>Testing the fixed header feature!</p>
-        <p>Testing the fixed header feature!</p>
-        <p>Testing the fixed header feature!</p>
-        <p>Testing the fixed header feature!</p>
-        <p>Testing the fixed header feature!</p>
-        <p>Testing the fixed header feature!</p>
-        <p>Testing the fixed header feature!</p>
-        <p>Testing the fixed header feature!</p>
-        <p>Testing the fixed header feature!</p>
-        <p>Testing the fixed header feature!</p>
-        <p>Testing the fixed header feature!</p>
-        <p>Testing the fixed header feature!</p>
-        <p>Testing the fixed header feature!</p>
-    </div>
-    <form class="container">
-        <h2 id="contact-header">Contact</h2>
-        <label for="fname-input">First Name</label>
-        <input type="text" id="fname-input"></input>
-        <label for="lname-input">Last Name</label>
-        <input type="text" id="lname-input">
-    </form>
+    <section id="landing-section">
+        <h1>Philip Jones</h1>
+    </section>
+    <section id="projects-section">
+        <h1>Projects</h1>
+    </section>
+    <section id="contact-section">
+
+        <form class="container">
+            <h1 id="contact-header">Contact</h1>
+            <label for="fname-input">First Name</label>
+            <input type="text" id="fname-input"></input>
+            <label for="lname-input">Last Name</label>
+            <input type="text" id="lname-input">
+            <label for="email-input">Email</label>
+            <input type="email" id="email-input">
+        </form>
+    </section>
 </body>
 </html>
