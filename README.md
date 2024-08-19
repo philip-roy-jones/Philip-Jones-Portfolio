@@ -24,13 +24,8 @@
         <li>Implement responsive design for optimal viewing on various devices.</li>
         <li>Add sections for projects, skills, experience, and a contact form.</li>
     </ul>
-    <h2>How to Run the Project (if applicable)</h2>
-    <p>For now, the repository only contains initial setup files. If you want to view the current state of the project:</p>
-    <ol>
-        <li>Clone the repository:
-            <pre><code>git clone &lt;repository-url&gt;</code></pre>
-        </li>
-        <li>Open the <code>index.html</code> file in your browser to view the basic layout.</li>
-    </ol>
+    <h2>How to View the Project</h2>
+    <p>The portfolio site is currently deployed on GitHub Pages. You can view the latest version of the project at the following URL:</p>
+    <p><a href="https://philip-roy-jones.github.io/Philip-Jones-Portfolio/" target="_blank">https://philip-roy-jones.github.io/Philip-Jones-Portfolio/</a></p>
 </body>
 </html>
