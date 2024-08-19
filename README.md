@@ -7,7 +7,7 @@
 <body>
     <h1>Portfolio Website - README</h1>
     <h2>About</h2>
-    <p>This repository was intended to serve as the foundation for my personal portfolio website, where I planned to showcase my projects, skills, and experiences. The project was started over 9 months ago, but progress was paused due to the need for more quality projects to feature on the site.</p>
+    <p>This repository was intended to serve as the foundation for my personal portfolio website, where I planned to showcase my projects, skills, and experiences. The project was started on November 7th, 2023, but progress was paused due to the need for more quality projects to feature on the site.</p>
     <h2>Current Status</h2>
     <p>The project is currently on hiatus. While the basic structure was laid out, I decided to put development on hold until I have more completed projects that accurately represent my skills and expertise. The plan is to revisit and continue building the portfolio once I have accumulated a sufficient number of showcase-worthy projects.</p>
     <h2>Technologies Planned</h2>
